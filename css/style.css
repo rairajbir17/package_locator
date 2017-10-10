@@ -1,0 +1,11 @@
+/*For login Page*/
+.login-user b{
+	color:#101010;
+}
+.padding-bottom{
+	padding-bottom: 5px;
+}
+.login-button input[type=submit]{
+	background-color: #343434;
+    width: 100px;
+}
